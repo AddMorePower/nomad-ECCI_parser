@@ -6,7 +6,7 @@
     "cookiecutter": {
       "full_name": "Guillaume Gaisné",
       "email": "guillame.gaisne@esrf.fr",
-      "github_username": "Guillaume-Gaisne",
+      "github_username": "AddMorePower",
       "plugin_name": "nomad-ECCI_parser",
       "module_name": "nomad_ecci_parser",
       "short_description": "A NOMAD parser plugin for ECCI measurements in AddMorePower",
